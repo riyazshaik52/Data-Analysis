@@ -55,7 +55,7 @@ This ensured that the dataset was **clean, accurate, and ready for data modeling
 ---
 
 demo:
-![Sales Dashboard](Screenshot 2025-10-15 221158.png)
+![Sales Dashboard](hey)
 
 ---
 
